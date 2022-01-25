@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://img.shields.io/badge/Python-skyblue?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-ROS-navy"/></div>
 
 ---
-![WHY's GitHub stats](https://github-readme-stats.vercel.app/api?username=twotwobread&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaeYeon-Won&layout=compact&theme=tokyonight)
+![WHY's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaeYeon-Won&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaeYeon-Won&layout=compact&theme=tokyonight)
